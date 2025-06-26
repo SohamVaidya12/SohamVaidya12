@@ -79,7 +79,8 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
 
 ### 🧠 AI in Action
 
-<img src="https://i.gifer.com/7VE.gif" width="280" alt="Futuristic AI Brain"/>
+<img src="https://media.tenor.com/BncH56G1T5EAAAAd/artificial-intelligence.gif" width="280" alt="AI Chip Core"/>
+
 
 
 
