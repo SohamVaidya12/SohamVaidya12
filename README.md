@@ -82,6 +82,9 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
 <div align="center">
   <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="280" alt="AI Neural Network"/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="280" alt="AI Brain"/>
+</div>
 
 
 
