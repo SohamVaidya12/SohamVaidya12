@@ -51,6 +51,7 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
 
 ---
 
+
 ### 🚀 Projects Showcase  
 
 - 🧏‍♂️ **Indian Sign Language Interpreter**  
@@ -61,6 +62,11 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
 
 - 🍃 **LeafID: ML-Based Leaf Identification**  
   <span>&#x1F449;</span> Real-time classification of hibiscus and guava leaves with webcam integration and PDF reporting (**98–99% confidence**).
+
+<div align="center">
+  <img src="https://github.com/SohamVaidya12/SohamVaidya12/blob/main/project.png" width="480" alt="Soham ML Developer Portrait"/>
+</div>
+
 
 ---
 
@@ -75,22 +81,7 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
   - `Indian Sign Language Interpreter System`
   - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
 
----
 
-
-### 🧠 AI in Action
-
-<div align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="280" alt="AI Neural Network"/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="280" alt="AI Brain"/>
-</div>
-
-
-
-
----
 
 ### 🌐 Let’s Connect  
 
