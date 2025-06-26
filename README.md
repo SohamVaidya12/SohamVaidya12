@@ -75,13 +75,19 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
   - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
 
 ---
+---
 
 
-### 📊 GitHub Activity Graph
+### 🧠 AI in Action
 
-<a href="https://github.com/SohamVaidya12">
-  <img alt="Soham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SohamVaidya12&theme=react&area=true&hide_border=true&custom_title=My+GitHub+Activity+Graph" />
-</a>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="AI Brain Animation"/>
+</div>
+
+
+
+
+
 
 
 ---
