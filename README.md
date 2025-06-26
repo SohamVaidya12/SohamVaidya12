@@ -1,7 +1,9 @@
+
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Soham+Nilesh+Vaidya+-+ML+Developer+%26+Researcher;Crafting+the+future+with+Machine+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=800&lines=Soham+Nilesh+Vaidya+-+ML+Developer+%26+Researcher;Crafting+the+future+with+Machine+Learning" alt="Typing SVG">
 </p>
+
 
 
 <p align="center">
