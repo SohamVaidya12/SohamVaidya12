@@ -75,14 +75,12 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
   - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
 
 ---
----
 
 
 ### 🧠 AI in Action
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="AI Brain Animation"/>
-</div>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" alt="AI Neural Network Brain"/>
+
 
 
 
