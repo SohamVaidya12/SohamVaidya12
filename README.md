@@ -76,11 +76,13 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
 
 ---
 
+
 ### 📊 GitHub Activity Graph
 
 <a href="https://github.com/SohamVaidya12">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SohamVaidya12&bg_color=ffffff&color=1d4ed8&line=3b82f6&point=1e40af&area=true&hide_border=true" />
+  <img alt="Soham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SohamVaidya12&theme=react&area=true&hide_border=true&custom_title=My+GitHub+Activity+Graph" />
 </a>
+
 
 ---
 
