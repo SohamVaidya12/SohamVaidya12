@@ -79,7 +79,9 @@ I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <st
 
 ### 🧠 AI in Action
 
-<img src="https://media.tenor.com/DHkIdyRWJvIAAAAC/ai-artificial-intelligence.gif" width="280" alt="AI Neural Flow"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="280" alt="AI Neural Network"/>
+</div>
 
 
 
