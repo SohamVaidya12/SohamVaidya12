@@ -45,6 +45,12 @@
   <img src="co.png" height="45" alt="Genai logo" />
   <img width="20" />
   <img src="j1.png" height="45" alt="Genai logo" />
+  <img width="20" />
+  <img src="11 labs.png" height="45" alt="Genai logo" />
+  <img width="20" />
+  <img src="heyGen.png" height="45" alt="Genai logo" />
+  <img width="20" />
+  <img src="invideo ai.png" height="45" alt="Genai logo" />
 </div>
 
 ---
