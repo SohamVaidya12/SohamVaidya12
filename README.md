@@ -16,7 +16,7 @@
 
 ### 🧠 About Me  
 <p align="justify">
-I'm passionate about leveraging <strong>Artificial Intelligence</strong> and <strong>Data Science</strong> to build impactful solutions. With a solid academic foundation and hands-on project experience, I specialize in creating predictive models, analyzing datasets, and developing innovative systems to solve real-world problems.
+AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (V.P.K.B.I.E.T), currently pursuing an M.Tech in Artificial Intelligence and Data Science at the same institute. Skilled in data preprocessing, machine learning, model development, and deploying data-driven solutions.
 </p>
 
 ---
