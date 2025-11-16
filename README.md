@@ -84,8 +84,8 @@ AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute o
   - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
     
 - 🔖 Kaggle Dataset Licenses (Creator & Owner):
- - `Sign_Varia
- - `CampusFloraD10
+   - `Sign_Varia
+   - `CampusFloraD10
 
 CampusFloraD10
 
