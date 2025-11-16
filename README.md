@@ -82,7 +82,11 @@ AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute o
   - `RFID-based Product Journey Visualization`
   - `Indian Sign Language Interpreter System`
   - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
+-🔖 Kaggle Dataset Licenses (Creator & Owner):
+ - `Sign_Varia
+ - `CampusFloraD10
 
+CampusFloraD10
 
 
 ### 🌐 Let’s Connect  
