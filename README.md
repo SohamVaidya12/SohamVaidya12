@@ -83,7 +83,7 @@ AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute o
   - `Indian Sign Language Interpreter System`
   - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
     
--🔖 Kaggle Dataset Licenses (Creator & Owner):
+- 🔖 Kaggle Dataset Licenses (Creator & Owner):
  - `Sign_Varia
  - `CampusFloraD10
 
