@@ -65,10 +65,6 @@ AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute o
 - 🍃 **LeafID: ML-Based Leaf Identification**  
   <span>&#x1F449;</span> Real-time classification of hibiscus and guava leaves with webcam integration and PDF reporting (**98–99% confidence**).
 
-<div align="center">
-  <img src="https://github.com/SohamVaidya12/SohamVaidya12/blob/main/vid3.gif" width="320" alt="Project Demo GIF"/>
-</div>
-
 
 ---
 
