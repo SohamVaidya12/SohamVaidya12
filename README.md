@@ -35,7 +35,6 @@ AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute o
   <!-- ML & Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/512px-Scikit_learn_logo_small.svg.png" height="40" alt="scikit-learn"/>
   <img src="matplotlogo.png" height="40" alt="Matplotlib"/>
 
   <!-- IDEs & Tools -->
