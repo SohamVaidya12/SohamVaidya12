@@ -1,106 +1,175 @@
-
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=800&lines=Soham+Nilesh+Vaidya+-+ML+Developer+%26+Researcher;Crafting+the+future+with+Machine+Learning" alt="Typing SVG">
-</p>
-
-
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-Professional-blue?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Creative-purple?style=for-the-badge&logo=openai&logoColor=white" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=850&lines=Soham+Nilesh+Vaidya;AI+%26+Machine+Learning+Developer;Computer+Vision+%7C+NLP+%7C+Applied+AI"
+    alt="Soham Nilesh Vaidya — AI and Machine Learning Developer"
+  />
 </p>
 
----
-
-### 🧠 About Me  
-<p align="justify">
-AI & Data Science graduate from Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology (V.P.K.B.I.E.T), currently pursuing an M.Tech in Artificial Intelligence and Data Science at the same institute. Skilled in data preprocessing, machine learning, model development, and deploying data-driven solutions.
+<p align="center">
+  M.Tech candidate in Artificial Intelligence & Data Science, building practical
+  machine-learning systems across computer vision, NLP and data engineering.
 </p>
 
----
-
-### 🛠️ Skills & Tech Stack
-
-<div align="center">
-
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-
-  <!-- ML & Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="matplotlogo.png" height="40" alt="Matplotlib"/>
-
-  <!-- IDEs & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
-
-  <!-- Generative AI & Media Tools -->
-  <img src="Genai_logo.png" height="40" alt="GenAI"/>
-  <img src="co.png" height="40" alt="Copilot"/>
-  <img src="j1.png" height="40" alt="Jasper AI"/>
-  <img src="11 labs.png" height="40" alt="Eleven Labs"/>
-  <img src="heyGen.png" height="40" alt="Heygen"/>
-  <img src="invideo ai.png" height="40" alt="Invideo AI"/>
-
-</div>
-
----
-
-
-### 🚀 Projects Showcase  
-
-- 🧏‍♂️ **Indian Sign Language Interpreter**  
-  <span>&#x1F449;</span> Real-time sign language to text translation using CNN, with **96% accuracy**.
-
-- 🌿 **Automated Plant Species Detection**  
-  <span>&#x1F449;</span> CNN-powered model achieving **92% accuracy** for agricultural species recognition.
-
-- 🍃 **LeafID: ML-Based Leaf Identification**  
-  <span>&#x1F449;</span> Real-time classification of hibiscus and guava leaves with webcam integration and PDF reporting (**98–99% confidence**).
-
-
----
-
-### 📝 Publications & IP  
-
-- 📘 Published papers in **IEEE** and **IJSREM** on:
-  - Sign Language Interpretation using AI
-  - Plant Species Detection via Machine Learning
-
-- 🧾 Copyright Holder:
-  - `RFID-based Product Journey Visualization`
-  - `Indian Sign Language Interpreter System`
-  - `AQUANOSE: AI Enhanced Aroma Sensing for Sobriety and Safety`
-    
-- 🔖 Kaggle Dataset Licenses (Creator & Owner):
-   - Sign_Varia
-   - CampusFloraD10
-
-
-
----
-### 🌐 Let’s Connect  
-
-<p align="left">
-  <a href="mailto:sohamvaidya333@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+<p align="center">
+  <a href="https://github.com/SohamVaidya12?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20Repositories-0969DA?style=flat-square&logo=github&logoColor=white" alt="View repositories"/>
   </a>
-  <a href="https://www.linkedin.com/in/soham-vaidya-b31b21224/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/SohamVaidya12">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://ieeexplore.ieee.org/document/10575064">
+    <img src="https://img.shields.io/badge/Research-IEEE%20Published-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE publication"/>
   </a>
   <a href="https://www.kaggle.com/sohamvaidya1627">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Datasets-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle datasets"/>
   </a>
 </p>
 
+---
+
+## 👋 About Me
+
+I am an **AI & Data Science graduate** currently pursuing an **M.Tech in Artificial Intelligence and Data Science** at Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology.
+
+My interests include **computer vision, natural language processing, machine learning and data-driven application development**. I enjoy transforming research ideas into practical systems with interactive interfaces and measurable results.
+
+- 🎓 M.Tech candidate in Artificial Intelligence & Data Science
+- 🔭 Building projects in computer vision, NLP and applied machine learning
+- 📘 Published research in IEEE and IJSREM
+- 📊 Creator of machine-learning datasets published on Kaggle
+- 🌱 Currently exploring scalable ML pipelines, PySpark and model deployment
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages, Databases and Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### Machine Learning and Data
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+</p>
+
+### Application Development and AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧏 Indian Sign Language Interpreter
+
+A real-time Indian Sign Language recognition system using computer vision and deep learning. The project compares CNN and LSTM architectures and converts recognized gestures into text.
+
+- **Result:** CNN achieved 96.1% test accuracy
+- **Technologies:** Python, TensorFlow, OpenCV, CNN, LSTM and cvzone
+- **Recognition:** Published as an IEEE research paper
+
+[View repository](https://github.com/SohamVaidya12/ISL-Interpreter-system) ·
+[Read the IEEE paper](https://ieeexplore.ieee.org/document/10575064) ·
+[View the dataset](https://www.kaggle.com/datasets/sohamvaidya1627/sign-varia)
+
+---
+
+### 📈 Real-Time Market News Sentiment Analyzer
+
+A financial-news sentiment analysis system built using Apache Spark MLlib. It classifies headlines as positive, negative or neutral through a scalable text-processing pipeline.
+
+- **Techniques:** Tokenization, stop-word removal, HashingTF, IDF and class weighting
+- **Technologies:** PySpark, Logistic Regression, Pandas and Gradio
+
+[View repository](https://github.com/SohamVaidya12/Marketnews_Sentiment_Analyzer)
+
+---
+
+### 🤖 CI-Buddy
+
+An interactive learning chatbot that combines machine-learning classification, rule-based reasoning and external knowledge retrieval.
+
+- **Features:** Intent classification, Wikipedia retrieval, text-to-speech and quizzes
+- **Technologies:** Python, Scikit-learn, Naive Bayes, Streamlit and gTTS
+
+[View repository](https://github.com/SohamVaidya12/CI-Buddy)
+
+---
+
+### 🍃 LeafID
+
+A real-time leaf-identification application that classifies hibiscus and guava leaves from uploaded images or webcam input.
+
+- **Features:** Image classification, webcam support and downloadable PDF reports
+- **Technologies:** TensorFlow, OpenCV, cvzone and Gradio
+- **Observation:** Demonstrated predictions produced confidence scores between 98% and 99%
+
+[View repository](https://github.com/SohamVaidya12/LeafID)
+
+---
+
+### 🎬 CineFusion AI
+
+A content-based movie recommendation system supporting both Bollywood and Hollywood movies.
+
+- **Techniques:** TF-IDF vectorization and cosine similarity
+- **Technologies:** Python, Pandas, Scikit-learn and Gradio
+
+[View repository](https://github.com/SohamVaidya12/Movie_Recommender_System)
+
+---
+
+## 📝 Research, Intellectual Property and Datasets
+
+### Publications
+
+- **Indian Sign Language Interpretation Using AI** — IEEE  
+  [Read publication](https://ieeexplore.ieee.org/document/10575064)
 
 
+
+### Copyrighted Work
+
+- RFID-based Product Journey Visualization
+- Indian Sign Language Interpreter System
+- AQUANOSE: AI-Enhanced Aroma Sensing for Sobriety and Safety
+
+### Kaggle Datasets
+
+- [SignVaria — Indian Sign Language Dataset](https://www.kaggle.com/datasets/sohamvaidya1627/sign-varia)
+- **CampusFloraD10** — https://www.kaggle.com/datasets/sohamvaidya1627/campusflorad10
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:sohamvaidya333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Soham%20Vaidya-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Soham Vaidya"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soham-vaidya-b31b21224/">
+    <img src="https://img.shields.io/badge/LinkedIn-Soham%20Vaidya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="https://www.kaggle.com/sohamvaidya1627">
+    <img src="https://img.shields.io/badge/Kaggle-sohamvaidya1627-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile"/>
+  </a>
+</p>
