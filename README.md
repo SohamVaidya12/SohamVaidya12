@@ -144,14 +144,17 @@ A content-based movie recommendation system supporting both Bollywood and Hollyw
 
 - **Indian Sign Language Interpretation Using AI** — IEEE  
   [Read publication](https://ieeexplore.ieee.org/document/10575064)
-
-
-
+  
 ### Copyrighted Work
 
-- RFID-based Product Journey Visualization
-- Indian Sign Language Interpreter System
-- AQUANOSE: AI-Enhanced Aroma Sensing for Sobriety and Safety
+The following works have been officially registered and documented:
+
+- **RFID-Based Product Journey Visualization**
+- **Indian Sign Language Interpreter System**
+- **AQUANOSE: AI-Enhanced Aroma Sensing for Sobriety and Safety**
+
+📜 [View Copyright Certificates and Documentation](https://drive.google.com/drive/folders/1HhdiOk4QzJdra6nZ54OlZOBro5v911mz?usp=sharing)
+
 
 ### Kaggle Datasets
 
