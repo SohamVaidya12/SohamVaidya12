@@ -8,32 +8,38 @@
 </p>
 
 <p align="center">
-  M.Tech candidate in Artificial Intelligence & Data Science, building practical
-  machine-learning systems across computer vision, NLP and data engineering.
+  <strong>
+    M.Tech candidate in Artificial Intelligence &amp; Data Science, building
+    practical machine-learning systems across computer vision, NLP and data
+    engineering.
+  </strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/SohamVaidya12?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Projects-View%20Repositories-0969DA?style=flat-square&logo=github&logoColor=white"
-      alt="View repositories"
+      src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub repositories"
     />
   </a>
+
   <a href="https://ieeexplore.ieee.org/document/10575064">
     <img
-      src="https://img.shields.io/badge/Research-IEEE%20Published-00629B?style=flat-square&logo=ieee&logoColor=white"
-      alt="IEEE publication"
+      src="https://img.shields.io/badge/IEEE-PUBLISHED_RESEARCH-00629B?style=for-the-badge&logo=ieee&logoColor=white"
+      alt="View IEEE publication"
     />
   </a>
+
   <a href="https://www.kaggle.com/sohamvaidya1627">
     <img
-      src="https://img.shields.io/badge/Datasets-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"
-      alt="Kaggle datasets"
+      src="https://img.shields.io/badge/KAGGLE-VIEW_DATASETS-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+      alt="View Kaggle datasets"
     />
   </a>
+
   <a href="https://drive.google.com/drive/folders/1HhdiOk4QzJdra6nZ54OlZOBro5v911mz?usp=sharing">
     <img
-      src="https://img.shields.io/badge/Intellectual%20Property-Copyrighted%20Work-7B2CBF?style=flat-square&logo=googledrive&logoColor=white"
+      src="https://img.shields.io/badge/COPYRIGHTS-VIEW_CERTIFICATES-7B2CBF?style=for-the-badge&logo=googledrive&logoColor=white"
       alt="View copyright certificates and documentation"
     />
   </a>
